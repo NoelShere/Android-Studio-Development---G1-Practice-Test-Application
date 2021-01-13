@@ -6,9 +6,8 @@ This app is designed to help user learn and practice G1 Ontario Test.
 
 ## Compleated Challenges
 ```diff
-+ 1
-+ 2
-+ 3
++ Create a scoring system to track the users score and dislay final score at the end the test.
++ Make ads fluently blend into the application without sacrificing the quality of the app.  
 ```
 ## Application Features
 App contains 2 Sections (Test Hub) and (Study Hub)
