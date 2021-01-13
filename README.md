@@ -28,5 +28,3 @@ New User Interface includes:
 ![hi](https://github.com/noelshereportfolio/Android-Studio-Development---G1-Practice-Test-Application/blob/main/readme_assets/gif_splash.gif)
 
 http://noel10998.rf.gd/videos/flash.mp4 (Click To Watch Video)
-
-!(hi)(https://play-lh.googleusercontent.com/TzDBro-dZkEFBHtvgY4qMgPFWm32j-p3Zl3BbColcDtZoMO43IQrpCdUPN4GedoxcXiF=w1366-h569-rw)
