@@ -3,6 +3,7 @@ All Android Studio projects have been made using JAVA.
 
 ## Description 
 This app is designed to help user learn and practice G1 Ontario Test. 
+
 App contains 2 Sections (Test Hub) and (Study Hub)
 
 ## Splashscreen
