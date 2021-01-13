@@ -6,12 +6,12 @@ This app is designed to help user learn and practice G1 Ontario Test.
 
 ## Compleated Challenges
 ```diff
-+ Create a 
++ 1
 + 2
 + 3
 ```
 ## Application Features
-! App contains 2 Sections (Test Hub) and (Study Hub)
+App contains 2 Sections (Test Hub) and (Study Hub)
 ✔️ Free G1 practice 2021 books available to download and view with the app.
 ✔️ Free Links to important websites for studying.
 
