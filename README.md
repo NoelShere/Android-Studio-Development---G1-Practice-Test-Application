@@ -29,6 +29,6 @@ New User Interface includes:
 
 http://noel10998.rf.gd/videos/flash.mp4 (Click To Watch Video)
 
-## UXa
+## UX
 
 
