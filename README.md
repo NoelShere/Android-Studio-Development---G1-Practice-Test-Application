@@ -27,7 +27,9 @@ New User Interface includes:
 
 ## UX
 Button Animation
+
 Splashscreen
+
 Layout Transitions 
 
 ## Splashscreen
