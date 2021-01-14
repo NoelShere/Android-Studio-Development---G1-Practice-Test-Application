@@ -28,9 +28,9 @@ New User Interface includes:
 ## User Experence
 Using colour to indicate correct and incorrect answers.
 
-If the user clicks the wrong answer: correct answer is highlighted GREEN and incorrect answer RED
+If the user clicks the wrong answer: Correct answer is highlighted GREEN and incorrect answer RED
 
-If the user clicks the correct answer: answer is highlighted Green.
+If the user clicks the correct answer: Answer is highlighted Green.
 
 [![Details](https://github.com/noelshereportfolio/Android-Studio-Development---G1-Practice-Test-Application/blob/main/readme_assets/p1.png)](https://play.google.com/store/apps/details?id=com.noelistic.g1app)
 
