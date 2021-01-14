@@ -44,6 +44,8 @@ If the user clicks the correct answer: answer is highlighted Green.
 ✨Layout Transitions 
 
 ## Splashscreen
+First impression is the last impression.
+Users should feel welcoming while opening an applicaion. 
 ![hi](https://github.com/noelshereportfolio/Android-Studio-Development---G1-Practice-Test-Application/blob/main/readme_assets/gif_splash.gif)
 
 http://noel10998.rf.gd/videos/flash.mp4 (Click To Watch Video)
