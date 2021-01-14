@@ -26,11 +26,11 @@ New User Interface includes:
 
 
 ## UX
-Button Animation
+✨Button Animation
 
-Splashscreen
+✨Splashscreen
 
-Layout Transitions 
+✨Layout Transitions 
 
 ## Splashscreen
 ![hi](https://github.com/noelshereportfolio/Android-Studio-Development---G1-Practice-Test-Application/blob/main/readme_assets/gif_splash.gif)
