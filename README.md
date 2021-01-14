@@ -25,6 +25,16 @@ New User Interface includes:
 ✔️ New organized layout for better experience
 
 
+## User Experence
+Using colour to indicate correct and incorrect answers.
+
+If the user clicks the wrong answer: correct answer is highlighted GREEN and incorrect answer RED
+
+If the user clicks the correct answer: answer is highlighted Green.
+![Details] (https://github.com/noelshereportfolio/Android-Studio-Development---G1-Practice-Test-Application/blob/main/readme_assets/p1.png)
+
+
+
 ## UX
 ✨Button Animation
 
@@ -40,7 +50,6 @@ http://noel10998.rf.gd/videos/flash.mp4 (Click To Watch Video)
 Download Now:
 
 [![Foo](https://github.com/noelshereportfolio/Android-Studio-Development---G1-Practice-Test-Application/blob/main/readme_assets/playbtn.png)](https://play.google.com/store/apps/details?id=com.noelistic.g1app)
-
 
 
 
