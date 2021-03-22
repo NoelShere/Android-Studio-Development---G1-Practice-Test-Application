@@ -2,15 +2,15 @@
 All Android Studio projects have been made using JAVA. 
 
 ## Description 
-This app is designed to help user learn and practice G1 Ontario Test.
+This app is designed to help the user learn and practice G1 Ontario Test.
 
-## Compleated Challenges
+## Completed Challenges
 ```diff
-+ Create a scoring system to track the users score and dislay final score at the end the test.
++ Create a scoring system to track the user's score and display the final score at the end of the test.
 + Make ads fluently blend into the application without sacrificing the quality of the app.  
 ```
 ## Application Features
-App contains 2 Sections (Test Hub) and (Study Hub)
+The app contains 2 Sections (Test Hub) and (Study Hub)
 
 ✔️ Free G1 practice 2021 books available to download and view with the app.
 
@@ -22,18 +22,17 @@ New User Interface includes:
 
 ✔️ New Score Card
 
-✔️ New organized layout for better experience
+✔️ New organized layout for a better experience
 
 
-## User Experence
+## User Experience
 Using colour to indicate correct and incorrect answers.
 
 If the user clicks the wrong answer: Correct answer is highlighted GREEN and incorrect answer RED
 
-If the user clicks the correct answer: Answer is highlighted Green.
+If the user clicks the correct answer: The answer is highlighted Green.
 
 [![Details](https://github.com/noelshereportfolio/Android-Studio-Development---G1-Practice-Test-Application/blob/main/readme_assets/p1.png)](https://play.google.com/store/apps/details?id=com.noelistic.g1app)
-
 
 
 ## UX
@@ -44,8 +43,8 @@ If the user clicks the correct answer: Answer is highlighted Green.
 ✨Layout Transitions 
 
 ## Splashscreen
-First impression is the last impression.
-Users should feel welcoming while opening an applicaion. 
+The first impression is the last.
+Users should feel welcome while opening an application. 
 ![hi](https://github.com/noelshereportfolio/Android-Studio-Development---G1-Practice-Test-Application/blob/main/readme_assets/gif_splash.gif)
 
 http://noel10998.rf.gd/videos/flash.mp4 (Click To Watch Video)
@@ -53,7 +52,4 @@ http://noel10998.rf.gd/videos/flash.mp4 (Click To Watch Video)
 Download Now:
 
 [![Foo](https://github.com/noelshereportfolio/Android-Studio-Development---G1-Practice-Test-Application/blob/main/readme_assets/playbtn.png)](https://play.google.com/store/apps/details?id=com.noelistic.g1app)
-
-
-
 
