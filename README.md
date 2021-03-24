@@ -5,10 +5,10 @@ All Android Studio projects have been made using JAVA.
 This app is designed to help the user learn and practice G1 Ontario Test.
 
 ## Completed Challenges
-```diff
-+ Create a scoring system to track the user's score and display the final score at the end of the test.
-+ Make ads fluently blend into the application without sacrificing the quality of the app.  
-```
+
+✔️ Create a scoring system to track the user's score and display the final score at the end of the test.
+✔️ Make ads fluently blend into the application without sacrificing the quality of the app.  
+
 ## Application Features
 The app contains 2 Sections (Test Hub) and (Study Hub)
 
@@ -44,7 +44,7 @@ If the user clicks the correct answer: The answer is highlighted Green.
 
 ## Splashscreen
 The first impression is the last.
-Users should feel welcome while opening an application. 
+Users should feel welcomed while opening an application. 
 ![hi](https://github.com/noelshereportfolio/Android-Studio-Development---G1-Practice-Test-Application/blob/main/readme_assets/gif_splash.gif)
 
 ## Advertisment Design
