@@ -50,7 +50,7 @@ Users should feel welcome while opening an application.
 http://noel10998.rf.gd/videos/flash.mp4 (Click To Watch Video)
 
 
-[![Advertisement Design For Application](https://www.youtube.com/watch?v=br8afPWrwEc)](https://www.youtube.com/watch?v=br8afPWrwEcp)
+[![Advertisement Design For Application]](https://www.youtube.com/watch?v=br8afPWrwEcp)
 
 
 Download Now:
