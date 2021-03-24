@@ -47,7 +47,7 @@ The first impression is the last.
 Users should feel welcome while opening an application. 
 ![hi](https://github.com/noelshereportfolio/Android-Studio-Development---G1-Practice-Test-Application/blob/main/readme_assets/gif_splash.gif)
 
-[[Splash Screen]]http://noel10998.rf.gd/videos/flash.mp4 
+[[Splash Screen]] (http://noel10998.rf.gd/videos/flash.mp4)
 
 
 [[Advertisement Design For Application]](https://www.youtube.com/watch?v=br8afPWrwEcp)
