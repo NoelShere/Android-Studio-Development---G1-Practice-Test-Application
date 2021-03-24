@@ -7,6 +7,7 @@ This app is designed to help the user learn and practice G1 Ontario Test.
 ## Completed Challenges
 
 ✔️ Create a scoring system to track the user's score and display the final score at the end of the test.
+
 ✔️ Make ads fluently blend into the application without sacrificing the quality of the app.  
 
 ## Application Features
