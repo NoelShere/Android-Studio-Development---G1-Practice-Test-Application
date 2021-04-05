@@ -61,7 +61,7 @@ Users should feel welcomed while opening an application.
 
 
 
-Download Now:
+Take A Look at my Application on Playstore:
 
 [![Foo](https://github.com/noelshereportfolio/Android-Studio-Development---G1-Practice-Test-Application/blob/main/readme_assets/playbtn.png)](https://play.google.com/store/apps/details?id=com.noelistic.g1app)
 
