@@ -51,7 +51,7 @@ The first impression is the last.
 Users should feel welcomed while opening an application. 
 ![hi](https://github.com/noelshereportfolio/Android-Studio-Development---G1-Practice-Test-Application/blob/main/readme_assets/gif_splash.gif)
 
-## Advertisement Design / Marketing 
+## Advertisement / Marketing 
 
 [[Advertisement Design For Application]](https://www.youtube.com/watch?v=br8afPWrwEcp) 
 
