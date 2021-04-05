@@ -2,7 +2,7 @@
 All Android Studio projects have been made using JAVA. 
 
 ## Description 
-This app is designed to help the user learn and practice the G1 Ontario Test. Users need a place to study and practice, this app test's your knowledge and teaches you the rules of the G1 test.
+This app is designed to help the user learn and practice the G1 Ontario Test. Users need a place to study and practice, this app test's your knowledge and teaches you the rules of the G1 test. Users no longer have to switch between multiple apps to learn and practice.  
 
 ## Completed Challenges
 
