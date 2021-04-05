@@ -2,7 +2,7 @@
 All Android Studio projects have been made using JAVA. 
 
 ## Description 
-This app is designed to help the user learn and practice G1 Ontario Test.
+This app is designed to help the user learn and practice the G1 Ontario Test. Users need a place to study and practice, this app test's your knowledge and teaches you the rules of the G1 test.
 
 ## Completed Challenges
 
@@ -48,13 +48,13 @@ The first impression is the last.
 Users should feel welcomed while opening an application. 
 ![hi](https://github.com/noelshereportfolio/Android-Studio-Development---G1-Practice-Test-Application/blob/main/readme_assets/gif_splash.gif)
 
-## Advertisment Design
+## Advertisement Design
 
 [[Advertisement Design For Application]](https://www.youtube.com/watch?v=br8afPWrwEcp) 
 
 ✨Google Ads / Adwords 
 
-✨Keyword tools for setting target audence
+✨Keyword tools for setting target audience
 
 
 
