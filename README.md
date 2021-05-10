@@ -5,7 +5,7 @@ All Android Studio projects have been made using JAVA.
 This app is designed to help users learn and practice the G1 Ontario Test. Users need a place to study and practice, G1 Practice Test 2021 app can test your knowledge and also will teach you the rules of the G1 test. Users no longer have to switch between multiple apps to learn and practice.   
 
 ## Development 
-G1 Practice Test 2021– This project is created using JAVA in Android Studio. I have designed the user interface using Constraint Layouts, Relative Layours, Scroll views, Buttons, Images and more. To have the best user experience possibe, I have animated button clicks and layout transistions. On the programming side of things I have used arrays and double arrays to store the question and answers. I have used functions to update the Q&A when an answer is clicked. Moreover, I have implemented google firebase and uploaded app to google play store. I have used google ads and created eye catching advertisements for the application.  
+G1 Practice Test 2021– This project was created using JAVA in Android Studio. I have designed the user interface using Constraint Layouts, Relative Layouts, Scroll views, Buttons, Images and more. To have the best user experience possible, I have animated button clicks and layout transitions. On the programming side of things, I have used arrays and double arrays to store the question and answers. I have used functions to update the Q&A when an answer is clicked. Moreover, I have implemented google firebase and uploaded the app to the google play store. I have used google ads and created eye-catching advertisements for the application. 
 
 ## Completed Challenges
 
