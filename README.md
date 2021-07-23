@@ -1,6 +1,7 @@
 # Android-Studio-Development---G1-Practice-Test-Project
 All Android Studio projects have been made using JAVA. 
 
+[![Details](https://github.com/noelshereportfolio/Android-Studio-Development---G1-Practice-Test-Application/blob/main/readme_assets/logo.png)](https://play.google.com/store/apps/details?id=com.noelistic.g1app)
 ## Description 
 This app is designed to help users learn and practice the G1 Ontario Test. Users need a place to study and practice, G1 Practice Test 2021 app can test your knowledge and also will teach you the rules of the G1 test. Users no longer have to switch between multiple apps to learn and practice.   
 
