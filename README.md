@@ -54,7 +54,6 @@ Users should feel welcomed while opening an application.
 
 ## Advertisement / Marketing 
 
-[[Advertisement Design For Application]](https://www.youtube.com/watch?v=br8afPWrwEcp) 
 
 ✨Google Ads / Adwords 
 
